@@ -10,10 +10,7 @@ With over 4 years in the coding scene, I'm passionate about writing clean, maint
   -  Languages i know: GSC (slightly), batch, C/C# (slightly), python (barely lol), BDscript.
 
 <h3 align="left">My links:</h3>
-<p align="left">
-<a href="https://m1ontop.carrd.co/" target="blank"><i align="center" class="devicon-twitter-original" alt="M1ONTOP" height="40" width="60" ></i>
-</a>
-</p>
+https://m1ontop.carrd.co/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M1ONTOP&label=Profile%20views&color=0e75b6&style=flat" alt="M1ONTOP" /> </p>
 
@@ -47,6 +44,7 @@ With over 4 years in the coding scene, I'm passionate about writing clean, maint
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian"/></td>
     </tr>
 </table>
+Some of the languages are missing because the icons can't be found.
 
 ------
 [M1ONTOP](https://github.com/M1ONTOP)
