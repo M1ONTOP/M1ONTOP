@@ -9,7 +9,8 @@ With over 4 years in the coding scene, I'm passionate about writing clean, maint
   -  I’m currently learning; GSC, prx/sprx, batch, C, C#, python.
   -  Languages i know: GSC (slightly), batch, C/C# (slightly), python (barely lol), BDscript.
 
-<h3 align="left">My links:</h3> https://m1ontop.carrd.co/
+<h3 align="left">My links:</h3> 
+https://m1ontop.carrd.co/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M1ONTOP&label=Profile%20views&color=0e75b6&style=flat" alt="M1ONTOP" /> </p>
 
