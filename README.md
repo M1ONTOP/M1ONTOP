@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-[![MasterHead](https://i.bb.co/QQD3D1y/banner.png)](https://github.com/M1ONTOP)
+[![MasterHead](https://i.bb.co/QQD3D1y/)](https://github.com/M1ONTOP)
 ### Hello 🌎, I'm M1
 
 With over 4 years in the coding scene, I'm passionate about writing clean, maintainable code and design with users in mind.
