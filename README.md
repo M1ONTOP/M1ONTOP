@@ -10,7 +10,10 @@ With over 4 years in the coding scene, I'm passionate about writing clean, maint
   -  Languages i know: GSC (slightly), batch, C/C# (slightly), python (barely lol), BDscript.
 
 <h3 align="left">My links:</h3>
-https://m1ontop.carrd.co/
+<ul>
+  <li>VPN Server <a href="https://discord.gg/ETDkevXss2">here</a></li>
+  <li>Modding Services <a href="https://discord.gg/RK5bK2vBXE">here</a></li>
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M1ONTOP&label=Profile%20views&color=0e75b6&style=flat" alt="M1ONTOP" /> </p>
 
@@ -18,11 +21,11 @@ https://m1ontop.carrd.co/
 ------
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M1ONTOP&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/M1ONTOP/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M1ONTOP&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/M1ONTOP/)
 
 <div align="center">
   <a href="https://github.com/M1ONTOP">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=M1ONTOP&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="M1ONTOP"/>
+    <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=M1ONTOP&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="M1ONTOP"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M1ONTOP&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="M1ONTOP"/>
   </a>
 </div>
