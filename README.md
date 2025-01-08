@@ -28,7 +28,7 @@ https://m1ontop.carrd.co/
 </div>
 <p align="center">
   <a href="https://github.com/M1ONTOP">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1ONTOP&&theme=tokyonight" alt="M1ONTOP" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=M1ONTOP&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&background=45%2C00000000%2C00000000&hide_longest_streak=true" alt="M1ONTOP"/>
   </a>
 </p>
 
